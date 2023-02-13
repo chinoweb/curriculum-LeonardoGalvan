@@ -6,7 +6,7 @@ body{
 .name{
     width: 100%;
     height: 300px;
-    background: rgb(240, 150, 76);
+    background: rgb(241, 119, 205);
     transform: skewY(-5deg);
 }
 .name .content{
@@ -48,7 +48,7 @@ body{
 .Info {
     width: 90%;
     height: auto;
-    background: rgb(240, 150, 76);
+    background: rgb(241, 119, 205);
     margin: 5% auto;
     padding: 20px;
     border-radius: 20px;
@@ -89,7 +89,7 @@ body{
     color: blue;
 }
 .Instagram {
-    color: maroon;
+    color: rgb(238, 27, 27);
 }
 .Shoes {
     color: black;
