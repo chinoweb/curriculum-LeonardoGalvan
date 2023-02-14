@@ -6,7 +6,7 @@ body{
 .name{
     width: 100%;
     height: 300px;
-    background: rgb(241, 119, 205);
+    background: rgb(230, 173, 68);
     transform: skewY(-5deg);
 }
 .name .content{
@@ -48,7 +48,7 @@ body{
 .Info {
     width: 90%;
     height: auto;
-    background: rgb(241, 119, 205);
+    background: rgb(230, 173, 68);
     margin: 5% auto;
     padding: 20px;
     border-radius: 20px;
